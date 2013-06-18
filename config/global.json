@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "emaildata"
+        }, 
+        "emaildata": {
+            "applicationId": "",
+            "masterKey": ""  // TODO fill in this info
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.8"
+    }
+}
